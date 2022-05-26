@@ -1,0 +1,2 @@
+This is a test document for my first ever GitHub repo!
+I hope someday I'll look back at this and be proud of how far I've come as a developer!
